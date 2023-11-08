@@ -1,0 +1,7 @@
+C:\Mphasis dot net\Day 3\Employeedetails\Employeedetails\bin\Debug\Employeedetails.exe.config
+C:\Mphasis dot net\Day 3\Employeedetails\Employeedetails\bin\Debug\Employeedetails.exe
+C:\Mphasis dot net\Day 3\Employeedetails\Employeedetails\bin\Debug\Employeedetails.pdb
+C:\Mphasis dot net\Day 3\Employeedetails\Employeedetails\obj\Debug\Employeedetails.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Day 3\Employeedetails\Employeedetails\obj\Debug\Employeedetails.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Day 3\Employeedetails\Employeedetails\obj\Debug\Employeedetails.exe
+C:\Mphasis dot net\Day 3\Employeedetails\Employeedetails\obj\Debug\Employeedetails.pdb
